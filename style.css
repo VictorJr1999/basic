@@ -1,0 +1,30 @@
+h1 {
+  color:maroon;
+}
+h2 {
+  color:maroon;
+}
+h3 {
+  color: green;
+}
+footer {
+  color: gray;
+}
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.title{
+  text-transform: uppercase; 
+}
+.color{
+  color:goldenrod
+}
+label[for*="message"]{
+  color: orange;
+}
+.color{
+  font-size: 13px;
+}
+ul li{
+  list-style: square;
+}
